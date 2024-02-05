@@ -1,3 +1,4 @@
+# QLabel with Image
 
 from PyQt5.QtGui import QPixmap
 from PyQt5.QtWidgets import QApplication, QLabel, QMainWindow
